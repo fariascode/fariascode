@@ -8,16 +8,14 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+ <br> **About Me**
 
 
  🔭 I’m currently working on (https://github.com/fariascode/bienesRaices24)
 
  🌱 I’m currently learning **React.js**
 
- 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
-
- 📫 Reach out to me: **arjuncvinod7@gmail.com**
+ 📫 Reach out to me: **230389@utxicotepec.edu.mx**
 
  <p  align="center">
   
