@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
-# 💫 About Me:
+# 💫 Sobre Mi:
 ¡Hola! Soy Al Farias, un apasionado estudiante de Desarrollo de Software de México. Cada día me esfuerzo por aprender nuevas tecnologías y habilidades que me acerquen a mi sueño de contribuir con soluciones innovadoras en el mundo de la tecnología. <br><br>Mi enfoque actual se centra en mejorar mis habilidades en programación, especialmente en el diseño y desarrollo de aplicaciones web. Me gusta experimentar con HTML, CSS, JavaScript, y bases de datos, y disfruto creando proyectos que combinan funcionalidad y diseño intuitivo.<br><br>🚀 Lo que me impulsa<br><br>Mi objetivo es aprender y dominar herramientas y lenguajes que me permitan crear soluciones que hagan la vida de las personas más sencilla. Si tienes un proyecto interesante o deseas compartir conocimientos, no dudes en contactarme. Estoy siempre listo para colaborar y aprender juntos.<br><br>¡Gracias por visitar mi perfil!
 
 
