@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
+![Al Farias — Ingeniería de Software](./assets/bannerfariascode.png)
 
 # Al Farias
 
