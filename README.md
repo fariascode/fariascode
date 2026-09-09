@@ -1,12 +1,74 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
-# 💫 Sobre Mi:
-¡Hola! Soy Al Farias, un apasionado estudiante de Desarrollo de Software de México. Cada día me esfuerzo por aprender nuevas tecnologías y habilidades que me acerquen a mi sueño de contribuir con soluciones innovadoras en el mundo de la tecnología. <br><br>Mi enfoque actual se centra en mejorar mis habilidades en programación, especialmente en el diseño y desarrollo de aplicaciones web. Me gusta experimentar con HTML, CSS, JavaScript, y bases de datos, y disfruto creando proyectos que combinan funcionalidad y diseño intuitivo.<br><br>🚀 Lo que me impulsa<br><br>Mi objetivo es aprender y dominar herramientas y lenguajes que me permitan crear soluciones que hagan la vida de las personas más sencilla. Si tienes un proyecto interesante o deseas compartir conocimientos, no dudes en contactarme. Estoy siempre listo para colaborar y aprender juntos.<br><br>¡Gracias por visitar mi perfil!
+# Al Farias
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Xicotepec de Juárez.
+
+Mi enfoque se centra en el desarrollo de software, aplicaciones web, diseño de interfaces y experiencia de usuario. He participado en el desarrollo de soluciones para procesos reales utilizando tecnologías como JavaScript, React, Vite, PHP, MySQL y Firebase.
+
+Actualmente curso mi último cuatrimestre académico y me preparo para realizar mi Estadía Profesional en 2027, con interés en oportunidades relacionadas con desarrollo de software, tecnologías de la información y productos digitales.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fariascode&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Tecnologías
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend y bases de datos
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Diseño
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# Áreas de interés
+
+- Desarrollo de software
+- Desarrollo web
+- Desarrollo móvil
+- Diseño UX/UI
+- Arquitectura de interfaces
+- Bases de datos
+- Automatización de procesos
+- Productos digitales
+
+---
+
+# Experiencia destacada
+
+Participación en el desarrollo y mejora de una aplicación web progresiva para procesos operativos de una empresa turística.
+
+Trabajo con tecnologías como JavaScript, React, Vite, PHP, Firebase Realtime Database y MySQL.
+
+Desarrollo de funcionalidades relacionadas con reservaciones, geolocalización, gestión de información y automatización de procesos.
+
+---
+
+# Contacto
+
+Correo: **fariasly.dev@gmail.com**
+
+LinkedIn: [linkedin.com/in/fariasly](https://www.linkedin.com/in/fariasly/)
+
+GitHub: [github.com/fariascode](https://github.com/fariascode)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=fariascode&icon=0&color=6)](https://visitcount.itsvg.in)
