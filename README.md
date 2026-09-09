@@ -1,4 +1,4 @@
-![Al Farias — Ingeniería de Software](./assets/bannerfariascode.png)
+![Al Farias — Ingeniería de Software](./bannerfariascode.png)
 
 # Al Farias
 
