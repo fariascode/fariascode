@@ -1,5 +1,3 @@
-![Al Farias — Ingeniería de Software](./bannerfariascode.png)
-
 # Al Farias
 
 Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Xicotepec de Juárez.
