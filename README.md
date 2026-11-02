@@ -1,72 +1,89 @@
+
+<div align="center">
+
 # Al Farias
 
-Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Xicotepec de Juárez.
+**Software Development · Web Applications · Product Design**
 
-Mi enfoque se centra en el desarrollo de software, aplicaciones web, diseño de interfaces y experiencia de usuario. He participado en el desarrollo de soluciones para procesos reales utilizando tecnologías como JavaScript, React, Vite, PHP, MySQL y Firebase.
+*Building thoughtful digital experiences.*
 
-Actualmente curso mi último cuatrimestre académico y me preparo para realizar mi Estadía Profesional en 2027, con interés en oportunidades relacionadas con desarrollo de software, tecnologías de la información y productos digitales.
+[LinkedIn](https://www.linkedin.com/in/fariasly/) · [Email](mailto:fariasly.dev@gmail.com)
 
----
-
-# Tecnologías
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend y bases de datos
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Herramientas
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Diseño
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+</div>
 
 ---
 
-# Áreas de interés
+## Sobre mí
 
-- Desarrollo de software
-- Desarrollo web
-- Desarrollo móvil
-- Diseño UX/UI
-- Arquitectura de interfaces
-- Bases de datos
-- Automatización de procesos
-- Productos digitales
+Soy estudiante de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica de Xicotepec de Juárez, México.
+
+Me enfoco en crear aplicaciones web, diseñar interfaces intuitivas y desarrollar soluciones digitales para necesidades reales. He trabajado con herramientas de frontend, backend y bases de datos, desde el diseño de una experiencia hasta la implementación de sus funcionalidades.
+
+Actualmente me preparo para mi **Estadía Profesional en 2027**, con interés en desarrollo de software y productos digitales.
+
+## Proyectos seleccionados
+
+### 01. NutriAI — AI Nutrition System
+
+Aplicación web para profesionales de la nutrición que permite gestionar información y generar planes nutricionales personalizados con inteligencia artificial.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · OpenAI
+
+[Repositorio](https://github.com/fariascode/ai-nutrition-system) · [Ver aplicación](https://ai-nutrition-system-khaki.vercel.app)
+
+### 02. XIMORA — Business Management PWA
+
+Aplicación web progresiva para la administración de productos, inventario y métricas de un emprendimiento, con un enfoque en claridad y facilidad de uso.
+
+**Stack:** React · TypeScript · Supabase · PWA
+
+[Repositorio](https://github.com/fariascode/ximora) · [Ver aplicación](https://ximora-beige.vercel.app)
+
+### 03. iHome — Smart Home Interface
+
+Proyecto de desarrollo frontend para una solución de casa inteligente, orientado a la interacción con funciones de domótica.
+
+**Área:** Desarrollo frontend · Interfaces web
+
+[Repositorio](https://github.com/fariascode/front-iHome)
+
+## Experiencia
+
+**Desarrollo de soluciones operativas · Sector turístico**
+
+Participé en el desarrollo y mejora de una aplicación web progresiva para digitalizar procesos operativos. Trabajé en funcionalidades de reservaciones, pagos, geolocalización, gestión de información y automatización de tareas.
+
+**Tecnologías utilizadas:** JavaScript · React · Vite · PHP · MySQL · Firebase
+
+## Tecnologías
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-1C1C1E?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1C1C1E?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1E?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-1C1C1E?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1C1C1E?style=flat-square&logo=vite&logoColor=white)
+
+**Backend y datos**
+
+![PHP](https://img.shields.io/badge/PHP-1C1C1E?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1C1C1E?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1C1C1E?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1E?style=flat-square&logo=supabase&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-1C1C1E?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1C1C1E?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-# Experiencia destacada
+<div align="center">
 
-Participación en el desarrollo y mejora de una aplicación web progresiva para procesos operativos de una empresa turística.
+**Construyendo software con intención, claridad y atención al detalle.**
 
-Trabajo con tecnologías como JavaScript, React, Vite, PHP, Firebase Realtime Database y MySQL.
+[Email](mailto:fariasly.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fariasly/)
 
-Desarrollo de funcionalidades relacionadas con reservaciones, geolocalización, gestión de información y automatización de procesos.
-
----
-
-# Contacto
-
-Correo: **fariasly.dev@gmail.com**
-
-LinkedIn: [linkedin.com/in/fariasly](https://www.linkedin.com/in/fariasly/)
-
-GitHub: [github.com/fariascode](https://github.com/fariascode)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=fariascode&icon=0&color=6)](https://visitcount.itsvg.in)
+</div>
